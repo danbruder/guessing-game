@@ -4,4 +4,14 @@ This code follows the first introductory tutorial in the [Rust Book](https://doc
 
 ![screenshot](https://github.com/danbruder/guessing-game/raw/master/screenshot.png)
 
+# Installation
 
+```bash
+git clone git@github.com:danbruder/guessing-game.git
+cd guessing-game
+```
+
+# Run
+```bash
+cargo run
+```
